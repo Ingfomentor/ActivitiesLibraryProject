@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">sobreLayouts</string>
+    <string name="action_settings">Settings</string>
+    <string name="layoutRelativa">RelativeLayout es el que dispone el ADT por defecto cuando creamos un proyecto en Android. Hay varias posibilidades cuando empleamos el RelativeLayout. Primero podemos alinear un control con respecto al Layout que lo contiene.</string>
+    <string name="flechaIzq">&lt;&lt;</string>
+    <string name="flechaDer">>></string>
+    <string name="textoLinear">Para la buena configuración de un contenedor LinearLayout debes conocer 5 áreas principales que te ayudarán a definir el aspecto visual del mismo: la orientación, el llenado del modelo, el peso, la gravedad y el relleno.</string>
+    <string name="texttabla">Con TableLayout añadimos una nueva dimensión, pudiendo disponer las vistas tanto verticalmente como horizontalmente, en forma de tabla.TableLayout es una especialización de un LinearLayout vertical. Aunque con un comportamiento particularizado.</string>
+    
+
+</resources>
